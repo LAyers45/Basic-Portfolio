@@ -2,7 +2,10 @@ header{
     color: white;
     background-color:#4aaaa5;
     font-size: 70px;
-    width: 360px;
+    width: 390px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    border-width: 5px;
+    border-color: #cccccc;
 
 }
 body{
@@ -19,6 +22,7 @@ h1{
 .Profile_Pic{
     float: left;
 }
-p{
-    color:#777777
+.about-me{
+    color:#777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
