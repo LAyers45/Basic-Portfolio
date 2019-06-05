@@ -1,0 +1,24 @@
+header{
+    color: white;
+    background-color:#4aaaa5;
+    font-size: 70px;
+    width: 360px;
+
+}
+body{
+    border: 10px;
+    border-color: blue;
+    width: 960px;
+    float: center;
+
+}
+h1{
+    color:#4aaaa5;
+
+}
+.Profile_Pic{
+    float: left;
+}
+p{
+    color:#777777
+}
